@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /simran1.html
+  - source: /sim1234.html
     destination: /home/ec2-user/
